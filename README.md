@@ -23,7 +23,5 @@ I'm Tolgahan, a passionate 2nd-year Computer Engineering student at Abdullah Gul
 - Instagram https://www.instagram.com/tolgahann.keles1/
 - Gmail tolgahann.keles@gmail.com
 
-⚡ **Fun Fact:**
-- Enthusiastic about blending creativity with technology!
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a tech chat. Let's code the future together! 🚀
