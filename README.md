@@ -4,21 +4,24 @@ I'm Tolgahan, a passionate 2nd-year Computer Engineering student at Abdullah Gul
 
 🌱 **About Me:**
 - Currently diving into the world of mobile application development.
-- Fueled by a keen interest in artificial intelligence.
+- Fueled by a keen interest in computer vision, artificial intelligence and machine learning.
 
 💡 **Projects:**
 - Actively working on exciting projects to enhance my coding skills.
 
 👨‍💻 **Tech Stack:**
-- Proficient in languages like Java and Python.
+- Proficient in languages like Dart, Java and Python.
 - Exploring the realms of AI, machine learning, and more.
 
 🎓 **Education:**
 - Studying Computer Engineering at Abdullah Gul University.
+- Studying Computer Programming at Istanbul University.
 
 📫 **Connect with Me:**
 - LinkedIn: [Tolgahan's LinkedIn](https://www.linkedin.com/in/tolgahanexample/)
-- Twitter: [@tolgahan_dev](https://twitter.com/tolgahan_dev)
+- X: [Tolgahan's X]([https://twitter.com/tolgahan_dev](https://twitter.com/tolgahannkeles))
+- Instagram [Tolgahan's Instagram](https://www.instagram.com/tolgahann.keles1/)
+- Gmail [](tolgahann.keles@gmail.com)
 
 ⚡ **Fun Fact:**
 - Enthusiastic about blending creativity with technology!
