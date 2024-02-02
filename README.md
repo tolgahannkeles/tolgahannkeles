@@ -18,10 +18,10 @@ I'm Tolgahan, a passionate 2nd-year Computer Engineering student at Abdullah Gul
 - Studying Computer Programming at Istanbul University.
 
 📫 **Connect with Me:**
-- LinkedIn: (https://www.linkedin.com/in/tolgahannkeles/)
-- X: (https://twitter.com/tolgahannkeles)
-- Instagram (https://www.instagram.com/tolgahann.keles1/)
-- Gmail [tolgahann.keles@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/tolgahannkeles/
+- X: https://twitter.com/tolgahannkeles
+- Instagram https://www.instagram.com/tolgahann.keles1/
+- Gmail tolgahann.keles@gmail.com
 
 ⚡ **Fun Fact:**
 - Enthusiastic about blending creativity with technology!
