@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**tolgahannkeles/tolgahannkeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tolgahan, a passionate 2nd-year Computer Engineering student at Abdullah Gul University. 🚀
 
-Here are some ideas to get you started:
+🌱 **About Me:**
+- Currently diving into the world of mobile application development.
+- Fueled by a keen interest in artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Projects:**
+- Actively working on exciting projects to enhance my coding skills.
+
+👨‍💻 **Tech Stack:**
+- Proficient in languages like Java and Python.
+- Exploring the realms of AI, machine learning, and more.
+
+🎓 **Education:**
+- Studying Computer Engineering at Abdullah Gul University.
+
+📫 **Connect with Me:**
+- LinkedIn: [Tolgahan's LinkedIn](https://www.linkedin.com/in/tolgahanexample/)
+- Twitter: [@tolgahan_dev](https://twitter.com/tolgahan_dev)
+
+⚡ **Fun Fact:**
+- Enthusiastic about blending creativity with technology!
+
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or just a tech chat. Let's code the future together! 🚀
