@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Tolgahan, a passionate 2nd-year Computer Engineering student at Abdullah Gul University. 🚀
+I'm Tolgahan, a passionate 3rd-year Computer Engineering student at Abdullah Gul University. 🚀
 
 🌱 **About Me:**
 - Currently diving into the world of mobile application development.
