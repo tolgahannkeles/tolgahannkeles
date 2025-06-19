@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Tolgahan, a passionate 3rd-year Computer Engineering student at Abdullah Gul University. 🚀
+I'm Tolgahan, a passionate 4th-year Computer Engineering student at Abdullah Gul University. 🚀
 
 🌱 **About Me:**
 - Currently diving into the world of mobile application development.
@@ -15,12 +15,12 @@ I'm Tolgahan, a passionate 3rd-year Computer Engineering student at Abdullah Gul
 
 🎓 **Education:**
 - Studying Computer Engineering at Abdullah Gul University.
-- Studying Computer Programming at Istanbul University.
+- Graduated Computer Programming at Istanbul University.
 
 📫 **Connect with Me:**
 - LinkedIn: https://www.linkedin.com/in/tolgahannkeles/
 - X: https://twitter.com/tolgahannkeles
-- Instagram https://www.instagram.com/tolgahann.keles1/
+- Instagram https://www.instagram.com/tolgahann.keles/
 - Gmail tolgahann.keles@gmail.com
 
 
